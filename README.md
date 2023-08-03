@@ -3,11 +3,11 @@ for steam auth
 
 
 front-end:vite(react ts)
-  -npm start
+  -npm run dev
 
 back-end:Passportjs(Steam Passport)
   -node index.js
-  -npm run dev
+  -npm start
 
 
   
